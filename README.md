@@ -1,5 +1,7 @@
 # Welcome to bspdeb
 
+Canonically, installing bspwm on Debian Based Distros like You do on ARCH.
+
 > This is Sapan Gajjar's (semisapeol / isg32)'s Auto-Dot files for Bspwm window manager on ubuntu.
 
 ## How to use this?
