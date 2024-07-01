@@ -14,6 +14,7 @@ cd bspdeb
 
 ### Executing the Script.
 ```bash
+chmod +x install.sh
 sudo ./install.sh
 ```
 OR
