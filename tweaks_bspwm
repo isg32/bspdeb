@@ -1,0 +1,5 @@
+sxhkd &
+	compton --backend glx --vsync opengl-swc &
+	usr/lib/xfce-polkit/xfce-polkit &
+	~/bin/polybar.launch.sh &
+	nitrogen --restore &

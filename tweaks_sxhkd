@@ -1,0 +1,13 @@
+	Super + d:                rofi
+	Super + Return:           terminal
+	Super + Shift + return:   floating terminal
+	Super + {1–9}:            go to ws
+	Super + Ctrl + {Left, Right}: go to ws
+	Super + Shift + {1–9}:    move window to ws
+	Super + f:                floating
+	Super + w:                monocle
+	Super + q:                close window
+	Super + Shift + q:        quit wm
+	Super + l:                session menu
+	Super + Esc:              reload sxhkd
+	Super + Alt + e:          reload bspwm
