@@ -30,12 +30,13 @@ configup(){
 	
 	# Installing NerdFonts
 	echo "Installing Nerd Fonts..."
-	cd Downloads
+	cd ~/Downloads
 	wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip
 	dtrx JetBrainsMono.zip
 	sudo cp -avr JetBrainsMono/ /usr/share/fonts/truetype/
 	fc-cache -f -v
 	rm JetBrainsMono.zip
+	cd ~/.
 }
 
 appendConfs(){
